@@ -1,0 +1,7 @@
+
+Zookeeper: Permite que tenha várias instâncias de KAFKA, gerenciando as instâncias do Kafka
+
+Para executar use o comando:
+docker-compose up -d
+
+Utilizamos o -d para ficar assincrono.
